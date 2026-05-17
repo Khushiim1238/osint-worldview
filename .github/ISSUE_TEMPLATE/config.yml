@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://github.com/amanimran786/osint-worldview/wiki
+    about: Read the docs and guides
+  - name: 💬 Discussions
+    url: https://github.com/amanimran786/osint-worldview/discussions
+    about: Ask questions or chat with the community
+  - name: 🌐 Live Demo
+    url: https://worldview.app
+    about: Try WorldView online
